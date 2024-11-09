@@ -37,7 +37,7 @@
 ### **Contact Me**
 
 <div align="center">
-  <a href="mailTo:incremax01@gmail.com">
+  <a href="mailTo:danvalleybarrick@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
   <!-- <a href="https://discord.com/users/1071339596203446303" target="_blank">
@@ -46,9 +46,9 @@
   <a href="https://www.linkedin.com/in/russell-masato-165377271" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a> -->
-  <a href="https://t.me/k_gosi" target="_blank">
+<!--   <a href="https://t.me/k_gosi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
