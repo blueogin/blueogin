@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">Software Engineer</h3>
 
- <img align="right"  height="200" src="/assets/1.jpg" />
 
 ### **My skill set**
 
